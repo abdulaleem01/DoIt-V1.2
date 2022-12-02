@@ -6,6 +6,6 @@ Some of the webpage features might not be working, becuase the application is st
 Requirements --
 
 1.python 3.9.12 -- Gui,Backend
-2.Node js 18.12.1 -- Frontend
+2.React js 18.12.1 -- Frontend
 
 --Thanks
