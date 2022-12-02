@@ -1,0 +1,106 @@
+
+.forlistdiv{
+    background-color: #58508d;
+
+    
+}
+.fordivcontainer{
+    background-color: #ffa600;
+    border-radius: 25px;
+    padding: 20px;
+    width: 92%;
+    height: 80px; 
+    align-items: center;
+    color: #000000;
+}
+
+.btn1{
+    border-radius: 20px ;
+    border: #ffa600 1px solid;
+    width: 70px;
+    background-color: #ffa600;
+    
+}
+.forss{
+    border: 20px solid #58508d;
+}
+.foritemdata{
+    background-color: #bc5090;
+    color: black;
+    border-radius: 20px;
+    padding-top: 2%;
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-bottom: 2%;
+
+
+}
+.neww{
+    background-color: #ff6361;
+    border-radius: 20px;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    padding-left: 1%;
+    padding-right: 1%;
+    align-items: center;
+    border: solid #bc5090 10px;
+
+    
+}
+.stepname{
+    font-size: 20px;
+}
+.frp{
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+}
+.srp{
+font-weight: bolder;
+color: black;
+    
+}
+.srss{
+    background-color: #ffa600;
+    border-radius: 20px;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    padding-left: 1%;
+    padding-right: 1%;
+    /* border: #58508d solid 10px; */
+    
+}
+.forheader{
+    background-color: black;
+    border-radius: 50px;
+    padding-left: 0.5%;
+    padding-right: 1%;
+    height: 50px;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+
+
+}
+.frheaderul{
+padding-top: 1%;
+
+}
+.lis{
+    display: inline;
+    padding-right: 1%;
+
+}
+.lisl{
+    display: inline;
+    padding-left: 2%;
+    float: right;
+
+}
+
+.fra{
+    color: #f4fc00;
+    padding-left: 2%;
+
+}
